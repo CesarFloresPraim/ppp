@@ -10764,13 +10764,13 @@ html:not(.mac) .section-parallax {
       background-position: 0 0; }
       @media (min-width: 1025px) {
         .promo-box-wide .tt-item .tt-item__img {
-          background-image: url("../images/promo-box-wide01.jpg"); } }
+          background-image: url("../images/BS_images/banner3.jpeg"); } }
       @media (max-width: 1024px) and (min-width: 767px) {
         .promo-box-wide .tt-item .tt-item__img {
-          background-image: url("../images/promo-box-wide02.jpg"); } }
+          background-image: url("../images/BS_images/banne3.jpeg"); } }
       @media (max-width: 766px) {
         .promo-box-wide .tt-item .tt-item__img {
-          background-image: url("../images/promo-box-wide03.jpg");
+          background-image: url("../images/BS_images/banner3.jpeg");
           height: 400px;
           width: 100%;
           background-position: center 0; } }
